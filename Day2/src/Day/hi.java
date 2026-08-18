@@ -1,4 +1,4 @@
-package train;
+package Day;
 class Parents
 {
    void property()

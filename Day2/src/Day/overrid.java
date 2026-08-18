@@ -1,4 +1,4 @@
-package train;
+package Day;
  class hin{
 	void g() {
 		System.out.println("afgj");
